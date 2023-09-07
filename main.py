@@ -2102,4 +2102,4 @@ print("\n                          ████████╗██╗░░█
       "                          ░░░██║░░░██║░░██║███████╗  ███████╗██║░╚███║██████╔╝\n"
       "                          ░░░╚═╝░░░╚═╝░░╚═╝╚══════╝  ╚══════╝╚═╝░░╚══╝╚═════╝░\n")
 print("thank you for playing!")
-print("\nOfficial made by robert aka GIGI")
+print("\nOfficial made by Robert aka GIGI")
