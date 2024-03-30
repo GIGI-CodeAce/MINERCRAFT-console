@@ -139,7 +139,7 @@ while True:
               "                     🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫\n"
               "\n")
         while True:
-            responseA = input("(press A to say muie mihai)\nW-move forward\nS-jump\n choose one : ").lower()
+            responseA = input("(press A to say a joke)\nW-move forward\nS-jump\n choose one : ").lower()
             if responseA == "w":
                 minecraf_logo()
                 print("\n                                                                    🟦            \n"
